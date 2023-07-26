@@ -11,6 +11,7 @@ def get_user_agent():
     return UserAgent(verify_ssl=False).random
 
 
+
 @dataclass
 class Scraper:
     url: str
