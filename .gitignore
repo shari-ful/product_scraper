@@ -1,4 +1,4 @@
  .env
- app/astradb_bundle/
+ app/astradb_bundle
  .vscode
  venv
